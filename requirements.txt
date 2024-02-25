@@ -1,0 +1,6 @@
+#python 3.8
+gym==0.24.1
+gym_super_mario_bros
+nes_py
+pygame
+gym-contra
